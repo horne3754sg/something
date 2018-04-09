@@ -1,0 +1,58 @@
+[
+    {
+        "key": "myLearning",
+        "title" : "My Learning",
+        "size": "50",
+        "color": "c1",
+        "icon" : {
+            "default" : "menu-icon2.svg",
+            "fallback" : "icon1.png"
+        },
+        "link" : "http://localhost:8080/"
+    
+    },
+    {
+        "key": "my360",
+        "title": "My 360",
+        "size": "50",
+        "color": "c2",
+        "icon" : {
+            "default" : "menu-icon2.svg",
+            "fallback" : "icon2.png"
+        },
+        "link" : "http://localhost:8080/"
+    },
+    {
+        "key": "profile",
+        "title": "Profile",
+        "size": "33",
+        "color": "c3",
+        "icon" : {
+            "default" : "menu-icon2.svg",
+            "fallback" : "icon3.png"
+        },
+        "link" : "http://localhost:8080/"
+    },
+    {
+        "key": "people",
+        "title": "People",
+        "size": "33",
+        "color": "c4",
+        "icon" : {
+            "default" : "menu-icon2.svg",
+            "fallback" : "icon4.png"
+        },
+        "link" : "http://localhost:8080/"
+    },
+    {
+        "key": "pathway",
+        "title": "Pathway",
+        "size": "33",
+        "color": "c5",
+        "icon" : {
+            "default" : "menu-icon2.svg",
+            "fallback" : "icon5.png"
+        },
+        "link" : "http://localhost:8080/"
+    }
+]
